@@ -23,6 +23,22 @@ Durante a aula, veremos exemplos práticos de como esses conceitos são implemen
    - Implementação de uma classe `Livro` com atributos `título`, `autor` e `ano`, e um método para exibir as informações do livro.
    - Implementação da classe `Carro`, adicionando o método `desligar` e criando objetos para testar as funcionalidades.
 
+### Diagramas
+
+Aqui estão alguns dos diagramas UML utilizados durante a aula:
+
+1. **Diagrama da Classe Pessoa**:
+   
+   ![Diagrama da Classe Pessoa](diagramas/diagrama_pessoa.png)
+
+2. **Diagrama da Classe Carro**:
+   
+   ![Diagrama da Classe Carro](diagramas/diagrama_carro.png)
+
+3. **Diagrama da Classe Livro**:
+   
+   ![Diagrama da Classe Carro](diagramas/diagrama_carro.png)
+
 ### Arquivos Disponíveis
 
 Nesta pasta, você encontrará os seguintes arquivos para a **Aula 1**:
