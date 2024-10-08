@@ -1,5 +1,3 @@
-package lpoo2;
-
 public class Livro {
 
     public String titulo;
