@@ -1,6 +1,3 @@
-package lpoo2;
-
-
 public class Carro {
     public String modelo;
     public int ano;
